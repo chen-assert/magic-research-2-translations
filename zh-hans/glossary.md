@@ -1,6 +1,7 @@
 The zh-hans translation uses the following glossary. Please refer to this document for any future revisions.
 
 ## Key Game Terms
+
 | en               | zh-hans |
 |------------------|---------|
 | Magic Research   | 魔法研究    |
@@ -23,17 +24,14 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Essence          | 精华      |
 | Divine           | 神圣      |
 | Familiar         | 使魔      |
-| Headmaster       | 校长      |
 | Element          | 元素      |
 | Monstium         | 魔物质     |
 | Transmutation    | 转化      |
 | Catalysts        | 催化剂     |
-| School           | 学院      |
 | Wizard           | 巫师      |
 | Research         | 研究      |
 | Spellcrafting    | 法术制作    |
 | Retirement       | 归隐      |
-| World Difficulty | 世界难度    |
 | Enhancement      | 强化      |
 | Prism            | 棱镜      |
 | Satell           | 萨特尔     |
@@ -41,6 +39,7 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Zeth             | 泽斯      |
 
 ## Icons (Keep as is)
+
 - `:hp:`
 - `:mana:`
 - `:defense:`
@@ -63,6 +62,7 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 - `:book:`
 
 ## Special Patterns
+
 - `{{parameter}}`: Keep parameter name in English, translate surrounding text.
 - `^{{text}}^<{{tooltip}}>`: Keep structure, translate text and tooltip.
 - `\n`: New line, keep.
