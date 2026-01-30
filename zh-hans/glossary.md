@@ -1,0 +1,56 @@
+# Magic Research 2 Translation Glossary
+
+## Icons (Keep as is)
+- `:hp:`
+- `:mana:`
+- `:defense:`
+- `:attack:`
+- `:coins:`
+- `:land:`
+- `:monstium:`
+- `:dodge:`
+- `:accuracy:`
+- `:wizardpower:`
+- `:corruption:`
+- `:fireessence:`
+- `:poisonessence:`
+- `:timepiece:`
+- `:electricessence:`
+- `:earthessence:`
+- `:wateressence:`
+- `:paper:`
+- `:lifeessence:`
+- `:book:`
+
+## Key Game Terms
+- Philosopher's Stone: 贤者之石
+- Storyline: 剧情线
+- Mana: 法力
+- Essence: 精华
+- Divine: 神圣
+- Familiar: 使魔
+- Headmaster: 校长
+- Element: 元素
+- Exploration: 探索
+- Monstium: 魔物质
+- Transmutation: 转化
+- Catalysts: 催化剂
+- School: 学院
+- Wizard: 巫师
+- Research: 研究
+- Spellcrafting: 法术制作
+- Study: 学习
+- Retirement: 归隐 (Game mechanic where you restart with bonuses)
+- World Difficulty: 世界难度
+- Challenge: 挑战
+- Enhancement: 强化
+- Prism: 棱镜
+- Satell: 萨特尔 (Character name)
+- Lytha: 莉瑟 (Character name)
+- Zeth: 泽斯 (Race/Faction name)
+
+## Special Patterns
+- `{{parameter}}`: Keep parameter name in English, translate surrounding text.
+- `^{{text}}^<{{tooltip}}>`: Keep structure, translate text and tooltip.
+- `\n`: New line, keep.
+- Markdown (`**`, `*`, `#`): Keep syntax.
