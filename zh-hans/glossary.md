@@ -48,12 +48,12 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Storyline     | 剧情线     |
 | Transmutation | 转化      |
 | Wizard        | 巫师      |
+| Divine        | 神圣      |
 
 ## Proper Nouns
 
 | English | Chinese |
 |:--------|:--------|
-| Divine  | 神圣      |
 | Lytha   | 莉瑟      |
 | Satell  | 萨特尔     |
 | Zeth    | 泽斯      |
@@ -66,6 +66,9 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Mana Shard       | 魔力碎片    |
 | Essence Storage  | 精华储存室   |
 | Essence Catalyst | 精华催化剂   |
+| Wizard Chamber   | 巫师室     |
+| Market Stall     | 市场摊位    |
+| Researcher Desk  | 研究员书桌   |
 
 ## Special Patterns
 
