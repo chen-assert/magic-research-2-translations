@@ -19,7 +19,6 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Death | 死/死亡 |
 | Earth | 地/大地 |
 | Electric | 电/雷电 |
-| Element | 元素 |
 | Fire | 火/火焰 |
 | Holy | 圣/神圣 |
 | Life | 生/生命 |
