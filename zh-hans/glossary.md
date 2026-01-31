@@ -70,6 +70,13 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Market Stall     | 市场摊位    |
 | Researcher Desk  | 研究员书桌   |
 
+## Level
+
+| English  | Chinese |
+|:---------|:--------|
+| Initiate | 启蒙      |
+| Novice   | 学徒      |
+
 ## Special Patterns
 
 - `:icon:`: Keep the icon as it.
