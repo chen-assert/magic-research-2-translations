@@ -6,7 +6,7 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 
 | English | Chinese |
 |:--------|:--------|
-| Channel | 引导      |
+| Channel | 引导/引能   |
 | Magic   | 魔法      |
 | Mana    | 魔力      |
 | Spell   | 法术      |
@@ -60,9 +60,12 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 
 ## Furniture
 
-| English     | Chinese |
-|:------------|:--------|
-| Mana Spouts | 魔力喷泉    |
+| English          | Chinese |
+|:-----------------|:--------|
+| Mana Spouts      | 魔力喷泉    |
+| Mana Shard       | 魔力碎片    |
+| Essence Storage  | 精华储存室   |
+| Essence Catalyst | 精华催化剂   |
 
 ## Special Patterns
 
