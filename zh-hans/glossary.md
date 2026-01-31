@@ -5,59 +5,66 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 ## Core Terms
 
 | English | Chinese |
-| :--- | :--- |
-| Channel | 引导 |
-| Magic | 魔法 |
-| Spell | 法术 |
+|:--------|:--------|
+| Channel | 引导      |
+| Magic   | 魔法      |
+| Mana    | 魔力      |
+| Spell   | 法术      |
 
 ## Elements
 
-| English | Chinese |
-| :--- | :--- |
-| Primary Element | 主元素 |
-| Air | 风/狂风 |
-| Death | 死/死亡 |
-| Earth | 地/大地 |
-| Electric | 电/雷电 |
-| Fire | 火/火焰 |
-| Holy | 圣/神圣 |
-| Life | 生/生命 |
-| Mind | 智/心智 |
-| Poison | 毒/猛毒 |
-| Space | 空/空间 |
-| Time | 时/时间 |
-| Water | 水/流水 |
+| English         | Chinese |
+|:----------------|:--------|
+| Primary Element | 主元素     |
+| Air             | 风/狂风    |
+| Death           | 死/死亡    |
+| Earth           | 地/大地    |
+| Electric        | 电/雷电    |
+| Fire            | 火/火焰    |
+| Holy            | 圣/神圣    |
+| Life            | 生/生命    |
+| Mind            | 智/心智    |
+| Poison          | 毒/猛毒    |
+| Space           | 空/空间    |
+| Time            | 时/时间    |
+| Water           | 水/流水    |
 
-## Stats/Resources
+## Resources
 
-| English | Chinese |
-| :--- | :--- |
-| Essence | 精华 |
-| Mana | 法力 |
-| Monstium | 魔物质 |
+| English  | Chinese |
+|:---------|:--------|
+| Essence  | 精华      |
+| Monstium | 魔物质     |
 
 ## Keywords
 
-| English | Chinese |
-| :--- | :--- |
-| Enhancement | 强化 |
-| Familiar | 使魔 |
-| Retirement | 归隐 |
-| Spellcaster | 施法者 |
-| Storyline | 剧情线 |
-| Transmutation | 转化 |
-| Wizard | 巫师 |
+| English       | Chinese |
+|:--------------|:--------|
+| Enhancement   | 强化      |
+| Familiar      | 使魔      |
+| Retirement    | 归隐      |
+| Spellcaster   | 施法者     |
+| Storyline     | 剧情线     |
+| Transmutation | 转化      |
+| Wizard        | 巫师      |
 
 ## Proper Nouns
 
 | English | Chinese |
-| :--- | :--- |
-| Divine | 神圣 |
-| Lytha | 莉瑟 |
-| Satell | 萨特尔 |
-| Zeth | 泽斯 |
+|:--------|:--------|
+| Divine  | 神圣      |
+| Lytha   | 莉瑟      |
+| Satell  | 萨特尔     |
+| Zeth    | 泽斯      |
+
+## Furniture
+
+| English     | Chinese |
+|:------------|:--------|
+| Mana Spouts | 魔力喷泉    |
 
 ## Special Patterns
+
 - `:icon:`: Keep the icon as it.
 - `{{parameter}}`: Keep the parameter as it, translate surrounding text.
 - `^{{text}}^<{{tooltip}}>`: Keep sentence structure, translate text and tooltip.
