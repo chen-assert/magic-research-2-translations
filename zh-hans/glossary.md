@@ -31,10 +31,11 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 
 ## Resources
 
-| English  | Chinese |
-|:---------|:--------|
-| Essence  | 精华      |
-| Monstium | 魔物质     |
+| English     | Chinese |
+|:------------|:--------|
+| Essence     | 精华      |
+| Monstium    | 魔物质     |
+| Time Pieces | 时间碎片    |
 
 ## Keywords
 
