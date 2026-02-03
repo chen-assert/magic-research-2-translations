@@ -24,7 +24,7 @@ The zh-hans translation uses the following glossary. Please refer to this docume
 | Holy            | 圣/神圣    |
 | Life            | 生/生命    |
 | Mind            | 智/心智    |
-| Poison          | 毒/猛毒    |
+| Poison          | 毒/剧毒    |
 | Space           | 空/空间    |
 | Time            | 时/时间    |
 | Water           | 水/流水    |
